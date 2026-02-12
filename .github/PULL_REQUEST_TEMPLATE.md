@@ -1,3 +1,5 @@
+## Pull Request
+
 ## Descrição
 
 ## Tipo de Mudança
@@ -9,3 +11,6 @@ Selecione as opções aplicáveis:
 - [] Documentação
 - [] Refatoração
 - [] Outro (Descrever)
+
+## Issue relacionada
+Closes #<número_da_issue>
